@@ -33,6 +33,8 @@ The edge channel is moving toward a strictly confined snap. At this time, it
 must be installed in devmode:
 
     sudo snap install microstack --classic --edge
+    
+    sudo snap install lxd && sudo lxd init
 
 ## Initialisation
 
